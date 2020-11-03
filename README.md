@@ -34,4 +34,4 @@ To deploy and test the "Test Contract":
 
 Feel free to reuse code in your projects.
 
-Contributed with love by Ugo.
+***Contributed with love by Ugo***
