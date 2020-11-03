@@ -33,3 +33,5 @@ To deploy and test the "Test Contract":
 - Run $ truffle test command to deploy contracts and run tests automatically
 
 Feel free to reuse code in your projects.
+
+Contributed with love by Ugo.
